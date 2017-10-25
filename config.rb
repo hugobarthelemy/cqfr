@@ -16,7 +16,14 @@ configure :build do
   set :relative_links, true
 end
 
+activate :blog do |blog|
+  # set options on blog
+  blog.tag_template = "tag.html"
+end
+
 activate :deploy do |deploy|
   deploy.build_before = true
   deploy.deploy_method = :git
+  deploy.branch   = 'master'
+  # deploy.remote   = 'test-remote'
 end

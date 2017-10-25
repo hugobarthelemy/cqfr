@@ -12,6 +12,32 @@
     <%= favicon_tag 'images/favicon.png' %>
   </head>
   <body>
-    <%= yield %>
+    <div class="container">
+      <div class="row">
+        <div id="header">
+          <h1><%= link_to "CQFR", "/"%></h1>
+          <p>Ce Qu'il Fallait Retenir</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-2">
+          Tag
+          <% blog.tags.each do |tag, articles| %>
+              <%= link_to "#{tag} (#{articles.size})", tag_path(tag) %>
+          <% end %>
+          Semaines
+        </div>
+        <div class="col-xs-12 col-sm-8">
+          Article
+          <section class="post-container">
+            <%= yield %>
+          </section>
+        </div>
+        <div class="col-xs-12 col-sm-2">
+          Inscription
+        </div>
+      </div>
+    </div>
+    <%= partial "partials/analytics" %>
   </body>
 </html>

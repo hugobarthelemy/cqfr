@@ -1,16 +1,14 @@
 ---
-title: Space is cool 2
-date: 2017-05-03
-tags: ezve
+title: Un projet de loi contre les violences sexistes et sexuelles
+date: 2017-10-22
+tags: Violences, Egalité F/H
 ---
-<h1>Un projet de loi contre les violences sexistes et sexuelles</h1>
-
-<p>resumer 'Le 16 octobre, la secrétaire d’Etat à l’Egalité entre les femmes et les hommes a annoncé, dans son interview au journal « La Croix » vouloir déposer un projet de loi contre les violences sexistes et sexuelles dès 2018'
-name: 'M. Schiappa'</p>
+<p>Le 16 octobre, la secrétaire d’Etat à l’Egalité entre les femmes et les hommes a annoncé, dans son interview au journal « La Croix » vouloir déposer un projet de loi contre les violences sexistes et sexuelles dès 2018'
+    name: 'M. Schiappa</p>
 
 <h1>Un projet de loi contre les violences sexistes et sexuelles</h1>
 Le 16 octobre, la secrétaire d’Etat à l’Egalité entre les femmes et les hommes a annoncé, dans son interview au journal « La Croix » vouloir déposer un projet de loi contre les violences sexistes et sexuelles dès 2018
-Faire reculer les chiffres des violences sexistes et sexuelles
+<h2>Faire reculer les chiffres des violences sexistes et sexuelles</h2>
 Tel est le seul objectif pour la grande « cause nationale » du quinquennat qu’est l’égalité entre les femmes et les hommes
 <h2>Trois axes de travail pour le projet de loi</h2>
 <ul>
@@ -28,7 +26,11 @@ Tel est le seul objectif pour la grande « cause nationale » du quinquennat qu�
     <li>Une large consultation auprès des acteurs du secteur (parlementaires, policiers, magistrats, psychiatres, psychologues, le monde de l’éducation...)
     </li>
     <li>Une mission parlementaire qui étudiera la question spécifique du harcèlement de rue pour préciser les limites. « L’idée est de trouver une définition commune, acceptée par tous »</li>
-</ul>
+</ul>´
+<h2>CHIFFRES CLÉS</h2>
+<p>84 000 viols par an
+    220 000 agressions sexuelles par an
+    1 femme meurt sous les coups de son conjoint tous les 3 jours</p>
 <h2>Pour en savoir +</h2>
 <p>gouv.fr/dossiers
     egalite.gouv.fr

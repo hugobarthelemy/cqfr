@@ -21,14 +21,13 @@
       </div>
       <div class="row">
         <div class="col-xs-12 col-sm-2">
-          Tag
-          <% blog.tags.each do |tag, articles| %>
+          Sujets
+          <br><% blog.tags.each do |tag, articles| %>
               <%= link_to "#{tag} (#{articles.size})", tag_path(tag) %>
           <% end %>
           Semaines
         </div>
         <div class="col-xs-12 col-sm-8">
-          Article
           <section class="post-container">
             <%= yield %>
           </section>
@@ -38,6 +37,7 @@
         </div>
       </div>
     </div>
+    <%= partial "partials/footer" %>
     <%= partial "partials/analytics" %>
   </body>
 </html>

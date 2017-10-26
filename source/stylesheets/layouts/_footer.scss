@@ -1,7 +1,11 @@
 #footer {
+  width: 100%;
+  bottom: 0;
+  height: 70px;
+  left: 0;
+  position: absolute;
   background-color: #D23333;
   color: white;
-  height: 20vh;
   display: flex;
   align-items: center;
   justify-content: space-around;

@@ -21,9 +21,9 @@
       </div>
       <div class="row">
         <div class="col-xs-12 col-sm-2">
-          Sujets
+          <h2>Mots clés</h2>
           <br><% blog.tags.each do |tag, articles| %>
-              <%= link_to "#{tag} (#{articles.size})", tag_path(tag) %>
+              <%= link_to "#{tag} (#{articles.size})", tag_path(tag), class: "btn btn-default" %>
           <% end %>
           Semaines
         </div>
@@ -33,7 +33,7 @@
           </section>
         </div>
         <div class="col-xs-12 col-sm-2">
-          Inscription
+          <h2>Inscrivez vous</h2>
         </div>
       </div>
     </div>

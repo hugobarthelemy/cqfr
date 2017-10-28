@@ -6,9 +6,12 @@ body {
   }
   margin-bottom: 40px;
   .col-post{
-    border-right-style: solid;
-    border-left-style: solid;
-    border-color: #989FA9;
+    @media (min-width: 990px) {
+      border-right-style: solid;
+      border-left-style: solid;
+      border-color: #989FA9;
+    }
+
   }
   btn {
     font-size: 13px;

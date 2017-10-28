@@ -22,12 +22,7 @@
       <div class="row">
         <div class="col-md-2">
           <div class="hidden-sm-down">
-          <h3>Mots clés</h3>
-            <% color = ["#EE5F5B", "#F95F62", "#00A6FF", "#FDB631", "#FFD185", "#FF9052", "#77D353"]%>
-          <br><% blog.tags.each do |tag, articles| %>
-              <%= link_to "#{tag} (#{articles.size})", tag_path(tag), class: "btn btn-default btn-sm", style: "background-color: #{color.sample};" %>
-          <% end %>
-          <h3>Semaines</h3>
+            <%= partial "partials/newsletter_subscribe_form" %>
           </div>
         </div>
         <div class="col-xs-12 col-md-8 col-post">
@@ -36,7 +31,7 @@
           </section>
         </div>
         <div class="col-xs-12 col-md-2">
-          <h3>Inscrivez vous</h3>
+          <%= partial "partials/key_word_and_weeks" %>
         </div>
       </div>
     </div>

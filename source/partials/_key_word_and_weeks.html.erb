@@ -1,0 +1,6 @@
+<h3>Mots clés</h3>
+<% color = ["#EE5F5B", "#F95F62", "#00A6FF", "#FDB631", "#FFD185", "#FF9052", "#77D353"]%>
+<br><% blog.tags.each do |tag, articles| %>
+    <%= link_to "#{tag} (#{articles.size})", tag_path(tag), class: "btn btn-default btn-sm", style: "background-color: #{color.sample};" %>
+<% end %>
+<h3>Semaines</h3>

@@ -12,6 +12,12 @@
         <% if current_page.data.abstract %>
             <br><p><%= current_page.data.abstract %></p><br>
         <% end %>
+        <a onclick="javascript:window.open('http://twitter.com/share?text=<%= current_page.data.title %> by #CQFR - &amp;url=<%= current_page.path %>', '_blank', 'width=800, height=500, top=200, left=300');void(0);">
+          <i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i>
+        </a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u=<%= current_page.path %>" title="<%= current_page.data.title %>" target="_blank" class="btn btn-facebook">
+          <i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
+        </a>
         <%= yield %>
       </div>
     </article>

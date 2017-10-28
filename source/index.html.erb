@@ -3,7 +3,7 @@ title: Le Wagon - Middleman
 ---
 <% blog.articles.each do |article| %>
     <div class="post-block">
-      <nobr><p><h1><%= link_to article.title, article %></h1><%= article.date.strftime('%e %b %Y') %></p></nobr>
+      <wbr><p><h1><%= link_to article.title, article %></h1></wbr><%= article.date.strftime('%e %b %Y') %></p>
       <% if article.data.abstract %>
           <p><%= article.data.abstract %></p>
       <% end %><%= link_to 'Read more…', article %>

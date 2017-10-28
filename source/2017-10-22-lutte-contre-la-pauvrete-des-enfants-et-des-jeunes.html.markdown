@@ -2,8 +2,12 @@
 title: Lutte contre la pauvreté des enfants et des jeunes
 date: 2017-10-22
 tags: Pauvreté et misère, Enfants et jeunes
+personality:
+    - "Agnès BUZYN"
+    - "Emmanuel MACRON"
+week: 2017 - 22 octobre
+abstract: "Le 17 octobre, le Président de la République et la ministre de la santé et des solidarités ont annoncé le lancement d’une concertation pour l’élaboration d’une stratégie de prévention et de lutte contre la pauvreté des enfants et des jeunes"
 ---
-<p>Le 17 octobre, le Président de la République et la ministre de la santé et des solidarités ont annoncé le lancement d’une concertation pour l’élaboration d’une stratégie de prévention et de lutte contre la pauvreté des enfants et des jeunes</p>
 <h2>Une journée symbolique pour cette annonce</h2>
 <p>Les 30 ans de la journée mondiale du refus de la misère. Célébrée, chaque 17 octobre, depuis 1987, elle est officiellement reconnue par les Nations Unies depuis 1992
     Lancement d’une concertation de 6 mois avec les acteurs de la lutte contre la pauvreté (associations, entreprises, experts, universitaires, chercheurs..) avec une présentation du plan d’actions d’ici le printemps 2018</p>

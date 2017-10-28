@@ -2,9 +2,11 @@
 title: Le pouvoir d’achat des agents publics préservé
 date: 2017-10-22
 tags: Fonctionnaires, Action publique, Rendez-vous salarial
+personality:
+    - "Gérald DARMANIN"
+week: 2017 - 22 octobre
+abstract: "Le 16 octobre, le ministre de l'Action et des Comptes publics a échangé avec les organisations syndicales représentatives de la fonction publique et les employeurs publics à l’occasion d’un « rendez-vous salarial »"
 ---
-<p>Le 16 octobre, le ministre de l'Action et des Comptes publics a échangé avec les organisations syndicales représentatives de la fonction publique et les employeurs publics à l’occasion d’un « rendez-vous salarial »</p>
-
 <h2>Pourquoi ce rendez-vous ?</h2>
 <ul>
     <li>Il était un engagement pris par le ministre dès sa prise de fonction</li>

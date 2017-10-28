@@ -2,9 +2,11 @@
 title: Hommage du Président aux forces de sécurité intérieure
 date: 2017-10-22
 tags: Sécurité intérieure, Forces de sécurité, PSQ
+personality:
+    - "Emmanuel MACRON"
+week: 2017 - 22 octobre
+abstract: "Le 18 octobre, le Président de la République s’est adressé aux policiers, gendarmes, militaires de l’opération Sentinelle et préfets pour tracer la feuille de route à 5 ans pour la transformation des forces de sécurité."
 ---
-<p>Le 18 octobre, le Président de la République s’est adressé aux policiers, gendarmes, militaires de l’opération Sentinelle et préfets pour tracer la feuille de route à 5 ans pour la transformation des forces de sécurité</p>
-
 <p>Dans un contexte d’une menace terroriste (13 projets d’attentats déjoués depuis le début de l’année) et des violences banalisées (rapports sociaux, débats politiques, expression publique), la première mission de l’État reste la protection de nos concitoyens et la sécurité du territoire avec comme grandes orientations à 5 ans :</p>
 <p>La lutte contre le terrorisme avec des mesures :</p>
 <ul>

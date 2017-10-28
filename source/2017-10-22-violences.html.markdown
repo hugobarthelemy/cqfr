@@ -2,12 +2,11 @@
 title: Un projet de loi contre les violences sexistes et sexuelles
 date: 2017-10-22
 tags: Violences, Egalité F/H
+personality:
+    - "Marlène SCHIAPPA"
+week: 2017 - 22 octobre
+abstract: 'Le 16 octobre, la secrétaire d’Etat à l’Egalité entre les femmes et les hommes a annoncé, dans son interview au journal « La Croix » vouloir déposer un projet de loi contre les violences sexistes et sexuelles dès 2018'
 ---
-<p>Le 16 octobre, la secrétaire d’Etat à l’Egalité entre les femmes et les hommes a annoncé, dans son interview au journal « La Croix » vouloir déposer un projet de loi contre les violences sexistes et sexuelles dès 2018'
-    name: 'M. Schiappa</p>
-
-<h1>Un projet de loi contre les violences sexistes et sexuelles</h1>
-Le 16 octobre, la secrétaire d’Etat à l’Egalité entre les femmes et les hommes a annoncé, dans son interview au journal « La Croix » vouloir déposer un projet de loi contre les violences sexistes et sexuelles dès 2018
 <h2>Faire reculer les chiffres des violences sexistes et sexuelles</h2>
 Tel est le seul objectif pour la grande « cause nationale » du quinquennat qu’est l’égalité entre les femmes et les hommes
 <h2>Trois axes de travail pour le projet de loi</h2>

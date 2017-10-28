@@ -2,9 +2,11 @@
 title: Transparence du Gouvernement sur « l’impôt des riches »
 date: 2017-10-22
 tags: Impôts et fiscalité, ISF-IFI, Pétition des députés
+personality:
+    - "Bruno LE MAIRE"
+week: 2017 - 22 octobre
+abstract: "Les 17 et 20 octobre, le ministre des finances a apporté des précisions à l’Assemblée et a répondu aux députés ayant demandé que soient détaillés les montants de gains pour les 100 premiers contribuables à l’ISF"
 ---
-<p>Les 17 et 20 octobre,
-    le ministre des finances a apporté des précisions à l’Assemblée et a répondu aux députés ayant demandé que soient détaillés les montants de gains pour les 100 premiers contribuables à l’ISF</p>
 <h2>Quelques chiffres et informations utiles</h2>
 <ul>
     <li>10% de Français les plus aisés verront leur pouvoir d’achat augmenter de 1, 5%</li>

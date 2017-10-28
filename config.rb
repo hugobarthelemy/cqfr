@@ -19,6 +19,7 @@ end
 activate :blog do |blog|
   # set options on blog
   blog.tag_template = "tag.html"
+  blog.layout = "article"
 end
 
 activate :deploy do |deploy|

@@ -1,0 +1,16 @@
+body {
+  h3 {
+    color: $blue;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  margin-bottom: 40px;
+  .col-post{
+    border-right-style: solid;
+    border-left-style: solid;
+    border-color: #989FA9;
+  }
+  btn {
+    font-size: 13px;
+  }
+}

@@ -1,8 +1,10 @@
 #footer {
-  width: 100%;
   bottom: 0px;
+  left: 0px;
+  position:fixed;
+
+  width: 100%;
   height: 40px;
-  left: 0;
   //position: absolute;
   background-color: #D23333;
   color: white;
@@ -10,7 +12,7 @@
   align-items: center;
   justify-content: space-around;
   text-align: center;
-  position:fixed;
+
   p {
     margin-top: 1.5em;
   }

@@ -4,3 +4,15 @@
     <%= link_to "#{tag} (#{articles.size})", tag_path(tag), class: "btn btn-default btn-sm", style: "background-color: #{color.sample};" %>
 <% end %>
 <h3>Semaines</h3>
+<!--<ul>-->
+  <!--<% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>-->
+      <!--<li>-->
+        <!--<h5><%= year %></h5>-->
+        <!--<ul>-->
+          <!--<% articles.each do |article| %>-->
+              <!--<li><a href="<%= article.url %>"><%= article.title %></a></li>-->
+          <!--<% end %>-->
+        <!--</ul>-->
+      <!--</li>-->
+  <!--<% end %>-->
+<!--</ul>-->
